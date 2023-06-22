@@ -1,9 +1,6 @@
 
 # RetailLoop SDK Documentation
 
-[![Build Status](https://travis-ci.com/ibroraheem/retailloop-node.svg?branch=main)](https://travis-ci.com/ibroraheem/retailloop-node)
-[![Coverage Status](https://coveralls.io/repos/github/ibroraheem/retailloop-node/badge.svg?branch=master)](https://coveralls.io/github/ibroraheem/retailloop-node?branch=main)
-
 [![npm version](https://img.shields.io/npm/v/retailloop-node.svg)](https://www.npmjs.com/package/retailloop-node)
 
 The RetailLoop SDK is a JavaScript library that provides a convenient interface for interacting with the RetailLoop API. This SDK simplifies the integration process and allows developers to perform various operations related to customers, products, orders, and discounts.
