@@ -1,6 +1,6 @@
 {
   "name": "retailloop-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A nodejs SDK for Retail Loop",
   "main": "index.js",
   "scripts": {
